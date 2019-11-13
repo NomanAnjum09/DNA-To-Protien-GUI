@@ -1,0 +1,29 @@
+﻿Build started 12/11/2018 1:09:55 AM.
+     1>Project "C:\Users\Noman Anjum\Documents\Adobe\Visual Studio 2010\Projects\DNA_Converter\DNA_Converter\DNA_Converter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\DNA_Converter.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Microsoft Visual Basic 2005 Power Packs\3.0\Microsoft.VisualBasic.PowerPacks.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Design.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib DNA_Converter.cpp form2.cpp form3.cpp
+     1>cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+         DNA_Converter.cpp
+     1>c:\users\noman anjum\documents\adobe\visual studio 2010\projects\dna_converter\dna_converter\Form1.h(262): warning C4018: '<': signed/unsigned mismatch
+         form2.cpp
+         form3.cpp
+         Generating Code...
+     1>c:\users\noman anjum\documents\adobe\visual studio 2010\projects\dna_converter\dna_converter\form3.h(262): warning C4715: 'DNA_Converter::form3::function': not all control paths return a value
+     1>c:\users\noman anjum\documents\adobe\visual studio 2010\projects\dna_converter\dna_converter\form3.h(262): warning C4715: 'DNA_Converter::form3::function': not all control paths return a value
+     1>c:\users\noman anjum\documents\adobe\visual studio 2010\projects\dna_converter\dna_converter\form3.h(262): warning C4715: 'DNA_Converter::form3::function': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Noman Anjum\Documents\Adobe\Visual Studio 2010\Projects\DNA_Converter\Debug\DNA_Converter.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\DNA_Converter.Form1.resources /ASSEMBLYRESOURCE:Debug\DNA_Converter.form2.resources /ASSEMBLYRESOURCE:Debug\DNA_Converter.form3.resources /ASSEMBLYRESOURCE:Debug\DNA_Converter.form4.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Noman Anjum\Documents\Adobe\Visual Studio 2010\Projects\DNA_Converter\Debug\DNA_Converter.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\alanine.obj
+         Debug\AssemblyInfo.obj
+         Debug\DNA_Converter.obj
+         Debug\form2.obj
+         Debug\form3.obj
+         Debug\form4.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         DNA_Converter.vcxproj -> C:\Users\Noman Anjum\Documents\Adobe\Visual Studio 2010\Projects\DNA_Converter\Debug\DNA_Converter.exe
+     1>Done Building Project "C:\Users\Noman Anjum\Documents\Adobe\Visual Studio 2010\Projects\DNA_Converter\DNA_Converter\DNA_Converter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.43
