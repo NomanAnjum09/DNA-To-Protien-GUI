@@ -23,4 +23,4 @@ use one function and some efficient logic to reduce the no of lines in code.
 2)
 Pictures are stored in a folder. You can save it on database with BLOB datatype.
 
-I'll update url of video of working project whenever I'll get some time.
+I'll update url of video of working project and will write a better readme whenever I'll get some time.
